@@ -8,7 +8,6 @@ Cybersecurity graduate based in Berlin, with hands-on SOC and GRC experience —
 - 🛡️ Former **SOC Analyst L1** at Dar Al Waffa Digital Media (Dubai) — monitored network traffic, analyzed logs in Splunk and Azure Sentinel, mapped incidents to MITRE ATT&CK
 - 🔐 Former **Data Security Specialist Assistant** at AURISCON GmbH (Berlin) — data protection, GRC, and ISO 27001-aligned documentation support
 - 📜 Google Cybersecurity Professional Certificate
-- 🌱 Currently studying for CompTIA Security+ (SY0-701)
 
 ## Projects
 
