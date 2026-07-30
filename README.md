@@ -20,7 +20,7 @@ Cybersecurity graduate based in Berlin, with hands-on SOC and GRC experience —
 
 **SIEM & Detection:** Splunk · Azure Sentinel · Windows Event Logs · MITRE ATT&CK
 **Tools:** Kali Linux · VirtualBox · Hydra · Wireshark · Python
-**GRC:** ISO/IEC 27001 · Risk Assessment · Security Policy Documentation
+**GRC:** ISO/IEC 27001 · Risk Assessment · Security Policy Documentatio
 **Other:** Linux/Bash · Incident Response Lifecycle · Vulnerability Assessment · Email/Phishing Analysis
 
 ## Let's Connect
