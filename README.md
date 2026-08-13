@@ -1,6 +1,6 @@
 # Hi, I'm Usama 👋
 
-Cybersecurity graduate based in Berlin, with hands-on SOC and GRC experience — currently building out my technical portfolio while transitioning fully into security operations
+Cybersecurity graduate based in Berlin, with hands-on SOC and GRC experience — currently building out my technical portfolio while transitioning fully into security operations.
 
 ## Background
 
